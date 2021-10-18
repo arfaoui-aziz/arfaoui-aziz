@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://azizarfaoui.netlify.app/" target="_blank">Aziz Arfaoui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **arfaoui-aziz/arfaoui-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/arfaoui_aziz/arfaoui_aziz)](https://azizarfaoui.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://azizarfaoui.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://azizarfaoui.netlify.app/)
