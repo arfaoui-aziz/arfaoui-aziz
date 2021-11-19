@@ -1,4 +1,5 @@
-### Hi there, I'm <a href="https://azizarfaoui.netlify.app/" target="_blank">Aziz Arfaoui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://azizarfaoui.netlify.app/" target="_blank">Aziz Arfaoui</a>, i'm a software engineering student / web developer currently looking for an end of study internship.
+I enjoy building exceptional digital experiences and turn ideas into reality. During my university years, I have had the opportunity to work with some amazing people on several exciting projects seeking for self improvement through pushing my creativity to its bounds.
 
 <!--
 **arfaoui-aziz/arfaoui-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning; <a href = "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/">Cloud Computing, AWS</a>
+- 📫 How to reach me: <a href = "mailto: mohamedaziz.arfaoui@esprit.tn">mohamedaziz.arfaoui@esprit.tn</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arfaoui_aziz.arfaoui_aziz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaziz-arfaoui)
