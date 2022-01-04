@@ -1,4 +1,4 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://azizarfaoui.netlify.app/" target="_blank">Aziz Arfaoui</a>, i'm a software engineering student / web developer currently looking for an end of study internship.
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://azizarfaoui.netlify.app/" target="_blank">Aziz Arfaoui</a> a software engineering student / web developer currently looking for an end of study internship.
 I enjoy building exceptional digital experiences and turn ideas into reality. During my university years, I have had the opportunity to work with some amazing people on several exciting projects seeking for self improvement through pushing my creativity to its bounds.
 
 <!--
